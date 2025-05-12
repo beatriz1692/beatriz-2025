@@ -1,1 +1,1 @@
-# beatriz-2025
+Este é um site de portfólio pessoal feito com HTML, CSS e JavaScript puro. O objetivo é apresentar minha trajetória acadêmica, interesses, projetos e formas de contato de maneira interativa e responsiva.
